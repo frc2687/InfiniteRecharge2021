@@ -642,7 +642,6 @@ AddOutputFilter chunkFilter
 			<Item Name="libsystem_kernel.dylib" Type="Document" URL="/usr/lib/system/libsystem_kernel.dylib"/>
 			<Item Name="Single Cmd Info.ctl" Type="VI" URL="../../../Pathinator/bordeaux-pathinator/Bordeaux/Command Stuff/Single Cmd Info.ctl"/>
 			<Item Name="Limits.ctl" Type="VI" URL="../../../Pathinator/bordeaux-pathinator/Bordeaux/Limits.ctl"/>
-			<Item Name="Drivebase Immediate Wrapper.vi" Type="VI" URL="../Drive Base/Commands/Drivebase Immediate Wrapper.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -715,7 +714,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{EEFDBF1D-0BC7-40C9-9285-B3DB7B64A28D}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin/Paths</Property>
-				<Property Name="Bld_version.build" Type="Int">36</Property>
+				<Property Name="Bld_version.build" Type="Int">39</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/Paths</Property>
