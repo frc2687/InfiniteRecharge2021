@@ -1,6 +1,6 @@
 [My Computer]
-My Computer = "192.168.86.203"
+My Computer = "169.254.200.198"
 
 [Target]
-Target = "10.26.87.2"
+Target = "169.254.149.219"
 
