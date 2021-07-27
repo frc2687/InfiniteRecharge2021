@@ -50,10 +50,18 @@
 			<Item Name="Rotate Polygon.vi" Type="VI" URL="../Rotate Polygon.vi"/>
 			<Item Name="Rotate Rectangle.vi" Type="VI" URL="../Rotate Rectangle.vi"/>
 		</Item>
+		<Item Name="Calculate Accel Distances.vi" Type="VI" URL="../Calculate Accel Distances.vi"/>
+		<Item Name="Convert Overrides.vi" Type="VI" URL="../Convert Overrides.vi"/>
+		<Item Name="Create Segment Velocities.vi" Type="VI" URL="../Create Segment Velocities.vi"/>
 		<Item Name="Field Size.ctl" Type="VI" URL="../Field Size.ctl"/>
-		<Item Name="Localize Path.vi" Type="VI" URL="../Localize Path.vi"/>
+		<Item Name="Impose Velocity Limits.vi" Type="VI" URL="../Impose Velocity Limits.vi"/>
 		<Item Name="Plot Euler Spiral.vi" Type="VI" URL="../Plot Euler Spiral.vi"/>
+		<Item Name="Review Recipe for Overlap.vi" Type="VI" URL="../Review Recipe for Overlap.vi"/>
+		<Item Name="Rotate WayPt for Extra Arc.vi" Type="VI" URL="../Rotate WayPt for Extra Arc.vi"/>
+		<Item Name="Single Clothoid Calculation.vi" Type="VI" URL="../Single Clothoid Calculation.vi"/>
+		<Item Name="Speeds.ctl" Type="VI" URL="../Speeds.ctl"/>
 		<Item Name="Trajectory Builder.vi" Type="VI" URL="../Trajectory Builder.vi"/>
+		<Item Name="Update WayPt Angles.vi" Type="VI" URL="../Update WayPt Angles.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Alignment.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Icon API/lv_icon/Controls/Alignment.ctl"/>
@@ -128,12 +136,15 @@
 			<Item Name="Availible Command systems for auto.ctl" Type="VI" URL="../Command Stuff/Availible Command systems for auto.ctl"/>
 			<Item Name="Boolean to Unit Vector.vi" Type="VI" URL="../Boolean to Unit Vector.vi"/>
 			<Item Name="Calculate Blend Angles.vi" Type="VI" URL="../Calculate Blend Angles.vi"/>
+			<Item Name="Create Stoopid Segment Velocities.vi" Type="VI" URL="../Create Stoopid Segment Velocities.vi"/>
 			<Item Name="Determine Clothoid Values.vi" Type="VI" URL="../Determine Clothoid Values.vi"/>
 			<Item Name="Distance from XY Delta.vi" Type="VI" URL="../Distance from XY Delta.vi"/>
 			<Item Name="Enforce Robot Rules.vi" Type="VI" URL="../Enforce Robot Rules.vi"/>
 			<Item Name="GenNewTraj.vi" Type="VI" URL="../GenNewTraj.vi"/>
 			<Item Name="Get Subsystem Color.vi" Type="VI" URL="../Command Stuff/Get Subsystem Color.vi"/>
+			<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
 			<Item Name="Handle Pos and Rot.vi" Type="VI" URL="../Handle Pos and Rot.vi"/>
+			<Item Name="Limits.ctl" Type="VI" URL="../Limits.ctl"/>
 			<Item Name="Manage Robot Shape.vi" Type="VI" URL="../Manage Robot Shape.vi"/>
 			<Item Name="Manage Waypoint Shape.vi" Type="VI" URL="../Manage Waypoint Shape.vi"/>
 			<Item Name="Map Poly to Pixels.vi" Type="VI" URL="../Map Poly to Pixels.vi"/>
@@ -150,18 +161,14 @@
 			<Item Name="Point Test Shapes.vi" Type="VI" URL="../Point Test Shapes.vi"/>
 			<Item Name="Prep for Plotting.vi" Type="VI" URL="../Prep for Plotting.vi"/>
 			<Item Name="Reflect Clothoid Points.vi" Type="VI" URL="../Reflect Clothoid Points.vi"/>
-			<Item Name="Review Recipe for Overlap.vi" Type="VI" URL="../Review Recipe for Overlap.vi"/>
 			<Item Name="Rotate Waypoints Pre.vi" Type="VI" URL="../Rotate Waypoints Pre.vi"/>
 			<Item Name="Rotate WayPt after Arc.vi" Type="VI" URL="../Rotate WayPt after Arc.vi"/>
-			<Item Name="Rotate WayPt for Extra Arc.vi" Type="VI" URL="../Rotate WayPt for Extra Arc.vi"/>
 			<Item Name="Saved Checker.vi" Type="VI" URL="../Saved Checker.vi"/>
 			<Item Name="Scaled Quadrant Vector.vi" Type="VI" URL="../Scaled Quadrant Vector.vi"/>
-			<Item Name="Single Clothoid Calculation.vi" Type="VI" URL="../Single Clothoid Calculation.vi"/>
 			<Item Name="Snap to Baseline.vi" Type="VI" URL="../Snap to Baseline.vi"/>
 			<Item Name="Track Rotation.vi" Type="VI" URL="../Track Rotation.vi"/>
 			<Item Name="Turn Smother.vi" Type="VI" URL="../Turn Smother.vi"/>
 			<Item Name="Update Annotations.vi" Type="VI" URL="../Update Annotations.vi"/>
-			<Item Name="Update WayPt Angles.vi" Type="VI" URL="../Update WayPt Angles.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
